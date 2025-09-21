@@ -7,4 +7,4 @@ spring:
   profiles:
     active: dev
 myapp:
-  name:ayatulla from git
+  name: ayatulla from git
